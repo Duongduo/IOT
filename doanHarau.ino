@@ -2,6 +2,7 @@
 #define BLYNK_TEMPLATE_NAME "Do an Ha Tuyen Phong"
 #define BLYNK_AUTH_TOKEN "ImfyLEKe8rFqksZSu-Xnuw_J5vrsIDXl"
 
+//nhanh moi
 // Uncomment the line below to enable debug prints
 #define BLYNK_PRINT Serial
 
